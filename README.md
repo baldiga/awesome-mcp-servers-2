@@ -238,6 +238,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://raw.githubusercontent.com/baldiga/zooq-mcp/main/logo.png" height="14"/> [ZOOQ](https://github.com/baldiga/zooq-mcp) - Live LinkedIn data for AI agents (profiles, companies, jobs, posts, search, email finding) via a hosted remote server. No LinkedIn account or cookies needed, 300 free credits.
+
 ## 🗺️ <a name="location-services"></a>Location Services
 
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
